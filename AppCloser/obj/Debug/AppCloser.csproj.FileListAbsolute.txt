@@ -1,0 +1,10 @@
+C:\Users\lol\source\repos\AppCloser\AppCloser\bin\Debug\AppCloser.exe.config
+C:\Users\lol\source\repos\AppCloser\AppCloser\bin\Debug\AppCloser.exe
+C:\Users\lol\source\repos\AppCloser\AppCloser\bin\Debug\AppCloser.pdb
+C:\Users\lol\source\repos\AppCloser\AppCloser\obj\Debug\AppCloser.csproj.AssemblyReference.cache
+C:\Users\lol\source\repos\AppCloser\AppCloser\obj\Debug\AppCloser.Form1.resources
+C:\Users\lol\source\repos\AppCloser\AppCloser\obj\Debug\AppCloser.Properties.Resources.resources
+C:\Users\lol\source\repos\AppCloser\AppCloser\obj\Debug\AppCloser.csproj.GenerateResource.cache
+C:\Users\lol\source\repos\AppCloser\AppCloser\obj\Debug\AppCloser.csproj.CoreCompileInputs.cache
+C:\Users\lol\source\repos\AppCloser\AppCloser\obj\Debug\AppCloser.exe
+C:\Users\lol\source\repos\AppCloser\AppCloser\obj\Debug\AppCloser.pdb
