@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 
 This App Used windows API to Force Close Any app<br><br><br>How To Build<br><br>vs 2022 <br>vc 17
 
 
@@ -12,4 +12,3 @@ This App Used windows API to Force Close Any app<br><br><br>How To Build<br><br>
 ---
 [![](https://visitcount.itsvg.in/api?id=Lolite-Go&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
